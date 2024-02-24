@@ -16,6 +16,7 @@ public class CalculateSalary {
 	public static void main(String[] args) {
 
 		Employee employee = new Employee();
+		
 
 		Scanner scanner = new Scanner(System.in);
 
