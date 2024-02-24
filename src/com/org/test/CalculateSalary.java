@@ -20,7 +20,7 @@ public class CalculateSalary {
 
 		Scanner scanner = new Scanner(System.in);
 
-		System.out.println("Enter the employee id: ");
+		System.out.println("Enter the employee id== ");
 		int empId = scanner.nextInt();
 		employee.setEmpId(empId);
 
